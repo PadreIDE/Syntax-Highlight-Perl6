@@ -690,7 +690,7 @@ the future.
 
 Discussion about this module and STD.pm6 is usually in #perl6
 (irc://irc.freenode.net/perl6). This module lives in
-http://svn.perlide.org/padre/trunk/Syntax-Highlight-Perl6 . Larry Wall's
+https://github.com/PadreIDE/Syntax-Highlight-Perl6 . Larry Wall's
 C<STD.pm6> lives in http://github.com/perl6/std.
 
 =head1 BUGS AND LIMITATIONS
